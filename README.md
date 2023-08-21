@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://typescript-eslint.io/">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*DYbVnTHQQpcNPm6vUFdrXw.png" alt="global.d.ts" width="50em" />
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*DYbVnTHQQpcNPm6vUFdrXw.png" alt="global.d.ts" width="500pxm" />
   </a>
 </p>
 
