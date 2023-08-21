@@ -1,10 +1,6 @@
-<p align="center">
-  <a href="https://www.typescriptlang.org/docs/handbook/declaration-files/templates/global-d-ts.html">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*DYbVnTHQQpcNPm6vUFdrXw.png" alt="global.d.ts" width="200" />
-  </a>
-</p>
+[![global.d.ts]([https://unpkg.com/prettier-logo@1.0.3/images/prettier-banner-light.svg](https://miro.medium.com/v2/resize:fit:1400/1*DYbVnTHQQpcNPm6vUFdrXw.png))](https://www.typescriptlang.org/docs/handbook/declaration-files/templates/global-d-ts.html)
 
-<h3 align="center">eslint</h3>
+<h3 align="center">global.d.ts</h3>
 
 <p align="center">
   The `global.d.ts` file defines global type declarations for TypeScript projects, enhancing codebase consistency and providing accurate type information.
