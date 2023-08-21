@@ -1,4 +1,8 @@
-[![global.d.ts]([https://unpkg.com/prettier-logo@1.0.3/images/prettier-banner-light.svg](https://miro.medium.com/v2/resize:fit:1400/1*DYbVnTHQQpcNPm6vUFdrXw.png))](https://www.typescriptlang.org/docs/handbook/declaration-files/templates/global-d-ts.html)
+<p align="center">
+  <a href="https://typescript-eslint.io/">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*DYbVnTHQQpcNPm6vUFdrXw.png" alt="global.d.ts" width="300px" />
+  </a>
+</p>
 
 <h3 align="center">global.d.ts</h3>
 
